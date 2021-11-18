@@ -8,3 +8,5 @@ MNIST done with paper, pencil and numpy.
 * train/val accuracy: 93%
 
 ![mnist.png](mnist.png)
+
+[Backprop derivation](!algebra.pdf) :)
