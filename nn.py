@@ -1,6 +1,6 @@
 
 from dataclasses import dataclass
-from numpy import ndarray, random, exp, multiply, sqrt, zeros, linalg
+from numpy import ndarray, random, exp, multiply, zeros, linalg
 from numpy.core.fromnumeric import argmax
 from numpy.core.numeric import zeros_like
 
