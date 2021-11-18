@@ -1,6 +1,6 @@
 # mnist-from-scratch
 
-MNIST done with paper, pencil and numpy.
+MNIST done with paper, pen, pencil and numpy.
 
 * single hidden layer with 32 units
 * no preprocessing, no regularisation
