@@ -9,4 +9,4 @@ MNIST done with paper, pencil and numpy.
 
 ![mnist.png](mnist.png)
 
-[Backprop derivation](!algebra.pdf) :)
+[Backprop derivation](algebra.pdf) :)
