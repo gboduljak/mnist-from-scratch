@@ -6,3 +6,5 @@ MNIST done with paper, pencil and numpy.
 * no preprocessing, no regularisation
 * normal random initialisation
 * train/val accuracy: 93%
+
+![mnist.png](mnist.png)
